@@ -21,9 +21,9 @@ Python 개발 환경을 분리시키기 위해 가상 환경사용
   - virtualenv [OPTIONS] DEST_DIR 
   - ex) `virtualenv venv`
  4. 가상환경 활성화/비활성화
-  1)활성화
-  - Window : venv/Scripts/activate
-  - Linux : source venv/bin/activate
-  2)비활성화
-  - deactivate
+  1)활성화  
+  - Window : venv/Scripts/activate  
+  - Linux : source venv/bin/activate  
+  2)비활성화  
+  - deactivate  
  
